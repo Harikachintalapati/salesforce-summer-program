@@ -38,3 +38,4 @@ Students can view attendance, courses, and exam results.
 The system stores all data in Salesforce objects for easy access and management.
 
 Screenshots
+day2-platform-basics/day2.jpeg
