@@ -1,0 +1,6 @@
+What is Salesforce DX? Salesforce DX is a development framework that improves collaboration, automation, and source-driven development in Salesforce projects. It helps developers manage code, testing, and deployment more efficiently.
+Why CLI matters: The Command Line Interface (CLI) allows developers to automate tasks, manage Salesforce environments, and deploy code quickly. It increases productivity and reduces manual work in development processes.
+Why GitHub matters: GitHub is important because it provides version control, code sharing, and collaboration among team members. It helps track changes, manage branches, and maintain project history securely.
+Team collaboration problems: Teams may face issues like code conflicts, communication gaps, duplicate work, and inconsistent development practices. Proper tools and workflows help reduce these collaboration challenges.
+Enterprise workflow discussion: Enterprise workflows involve structured processes for development, testing, deployment, and approval in large organizations. These workflows ensure better quality control, security, and smooth collaboration across teams.
+Reflection: Reflection is the process of evaluating experiences and outcomes to identify improvements and learning opportunities. It helps teams and individuals enhance future performance and decision-making.
