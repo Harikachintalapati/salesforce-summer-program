@@ -1,0 +1,6 @@
+What is CI/CD? Continuous Integration and Continuous Deployment (CI/CD) is a process that automates code integration, testing, and deployment. It helps deliver software updates faster, more reliably, and with fewer errors.
+Why deployment workflow matters: A deployment workflow ensures code changes are tested, approved, and released in a structured manner. It reduces deployment failures, improves consistency, and increases software quality.
+Problems without version control: Without version control, teams may lose code changes, face conflicts, and struggle to track project history. It also makes collaboration and rollback of errors very difficult.
+GitHub + DX + DevOps explanation: GitHub manages source code and collaboration, Salesforce DX supports modern Salesforce development, and DevOps automates testing and deployment processes. Together, they improve teamwork, speed, and software reliability.
+Enterprise deployment risks: Enterprise deployments may face risks such as downtime, security vulnerabilities, failed releases, and data loss. Proper testing, monitoring, and rollback strategies help minimize these risks.
+Reflection: Reflection involves reviewing processes and outcomes to identify lessons learned and areas for improvement. It helps teams enhance efficiency, avoid repeated mistakes, and improve future deployments.
